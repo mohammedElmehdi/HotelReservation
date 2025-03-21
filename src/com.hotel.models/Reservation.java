@@ -8,30 +8,30 @@ import java.sql.SQLException;
 import java.util.ArrayList;
 import java.util.List;
 
-// Classes de la résérvation
+// Classe de la reservation
 data class Reservation {
     private int id;
-    private String nomClient;
-    private String typeChambre;
-    private String dateArrivee;
-    private String dateDepart;
+    private String clientName;
+    private String roomType;
+    private String checkInDate;
+    private String checkOutDate;
 
-    public Reservation(int id, String nomClient, String typeChambre, String dateArrivee, String dateDepart) {
+    public Reservation(int id, String clientName, String roomType, String checkInDate, String checkOutDate) {
         this.id = id;
-        this.nomClient = nomClient;
-        this.typeChambre = typeChambre;
-        this.dateArrivee = dateArrivee;
-        this.dateDepart = dateDepart;
+        this.clientName = clientName;
+        this.roomType = roomType;
+        this.checkInDate = checkInDate;
+        this.checkOutDate = checkOutDate;
     }
-
+    
     public int getId() { return id; }
     public void setId(int id) { this.id = id; }
-    public String getnomClient() { return nomClient; }
-    public void setnomClient(String nomClient) { this.nomClient = nomClient; }
-    public String gettypeChambre() { return typeChambre; }
-    public void settypeChambre(String typeChambre) { this.typeChambre = typeChambre; }
-    public String getdateArrivee() { return dateArrivee; }
-    public void setdateArrivee(String dateArrivee) { this.dateArrivee = dateArrivee; }
-    public String getdateDepart() { return dateDepart; }
-    public void setdateDepart(String dateDepart) { this.dateDepart = dateDepart; }
+    public String getClientName() { return clientName; }
+    public void setClientName(String clientName) { this.clientName = clientName; }
+    public String getRoomType() { return roomType; }
+    public void setRoomType(String roomType) { this.roomType = roomType; }
+    public String getCheckInDate() { return checkInDate; }
+    public void setCheckInDate(String checkInDate) { this.checkInDate = checkInDate; }
+    public String getCheckOutDate() { return checkOutDate; }
+    public void setCheckOutDate(String checkOutDate) { this.checkOutDate = checkOutDate; }
 }
