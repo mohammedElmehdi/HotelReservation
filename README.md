@@ -7,8 +7,8 @@ The Reservation_D_Hotel project in Java is a hotel management system designed to
 |-------------------|------------------------------------------------|------------|--------------------------------------------------------------------|
 | Aziz AMEZIAN      | Create the ReservationServlet.java controller  | Pending    | /HotelReservation/com.hotel.controllers/ReservationServlet.java    |
 | Aziz AMEZIAN      | Create the AdminServlet.java controller        | Penging    | /HotelReservation/com.hotel.controllers/AdminServlet.java          |
-| Khalid BENKIRAN   | Create the Reservation.java model              | Pending    | /HotelReservation/com.hotel.models/Reservation.java                |
-| Khalid BENKIRAN   | Create the Database.java model                 | Pending    | /HotelReservation/com.hotel.models/Database.java                   |
+| Khalid BENKIRAN   | Create the Reservation.java model              | Done       | /HotelReservation/com.hotel.models/Reservation.java                |
+| Khalid BENKIRAN   | Create the Database.java model                 | Done       | /HotelReservation/com.hotel.models/Database.java                   |
 | Mohammed EL-MEHDI | Create the github repo                         | Done       | no_path                                                            |
 | Mohammed EL-MEHDI | Create the project structure                   | Done       | no_path                                                            |
 | Mohammed EL-MEHDI | Work on web folder                             | In progress| /HotelReservation/web                                              |
