@@ -1,1 +1,1 @@
-CREATE DATABASE db_host;
+CREATE DATABASE db_hotel;
