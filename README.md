@@ -12,8 +12,8 @@ The Reservation_D_Hotel project in Java is a hotel management system designed to
 | Mohammed EL-MEHDI | Create the github repo                         | Done       | no_path                                                            |
 | Mohammed EL-MEHDI | Create the project structure                   | Done       | no_path                                                            |
 | Mohammed EL-MEHDI | Work on web folder                             | Done       | /HotelReservation/web                                              |
-| Mohammed AOUDACHT | Work on the data base                          | Pending    | /HotelReservation/database.sql                                     |
-| Mohammed AOUDACHT | Assembling and running the project             | Pending    | no_path                                                            |
+| Mohammed AOUDACHT | Work on the data base                          | Done       | /HotelReservation/database.sql                                     |
+| Mohammed AOUDACHT | Assembling and running the project             | Done       | no_path                                                            |
 
 
 happy hacking!
